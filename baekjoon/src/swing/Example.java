@@ -1,6 +1,8 @@
 package swing;
 
+import javax.swing.ImageIcon;
 import javax.swing.JFrame;
+import javax.swing.JLabel;
 
 public class Example extends JFrame{
 	public Example(String title) {
